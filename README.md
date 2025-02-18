@@ -1,7 +1,3 @@
-Here’s an updated and concise README for your **MovieSearch UI**:
-
----
-
 # MovieSearch UI
 
 Welcome to the **MovieSearch UI** project! This guide will help you create a user interface for interacting with the MovieSearch dataset, indexed in an Appbase app. We’ll leverage **DejaVu**, a user-friendly UI for Elasticsearch, to explore and manage the dataset.
@@ -31,8 +27,15 @@ Welcome to the **MovieSearch UI** project! This guide will help you create a use
 
 ## Demonstration
 
-You can test the demo of the MovieSearch UI by visiting the following link:  
-[MovieSearch Demo](https://9whptn-3000.csb.app/)
+You can test the demo of the MovieSearch UI by clicking on the image below:
+
+![Demo Image](demo.png)
+
+[Click here to try the MovieSearch UI](https://9whptn-3000.csb.app/)
+
+---
+
+Make sure to add the `demo.png` image file to your project directory so that it appears correctly in the README.
 
 ## Utilizing DejaVu for Elasticsearch
 
