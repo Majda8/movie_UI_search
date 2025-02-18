@@ -29,10 +29,7 @@ Welcome to the **MovieSearch UI** project! This guide will help you create a use
 
 You can test the demo of the MovieSearch UI by clicking on the image below:
 
-![Demo Image](demo.png)
-
-[Click here to try the MovieSearch UI](https://9whptn-3000.csb.app/)
-
+[![Demo Image](demo.png)](https://9whptn-3000.csb.app/)
 ---
 
 Make sure to add the `demo.png` image file to your project directory so that it appears correctly in the README.
